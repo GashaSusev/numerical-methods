@@ -1,6 +1,8 @@
 #include <iostream>
 #include <iomanip>
 #include <ctime>
+
+
 int counter = 0;
 void consoleOut(long double A[8][8]) {
 	for (int i = 0; i < 8; i++) {
